@@ -1,1 +1,2 @@
-# DataStructure
+### 42SEOUL
+### 박은종 멘토님
